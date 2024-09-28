@@ -1,0 +1,351 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#main{
+    height: 30px;
+    margin-top: 10px;
+}
+p{
+   font-size: 15px;
+   text-align: center;
+}
+.main1{
+    display: flex;
+    position: relative;
+}
+.two1{
+    width: 40px;
+    height: 70px;
+    position: absolute;
+    right: 200px;
+}
+
+.two{
+    width:280px ;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    position:absolute;
+    top: 5px;
+    text-align: start;
+    left: 700px;
+    padding: 10px 20px ;
+}
+.main2{
+    width: 100%;
+    height: 80px;
+    margin-top: 10px;
+    padding-left: 100px;
+   
+}
+img[alt=same]{
+     width: 5%;
+     height: 70px;
+     margin-left: 32px;
+     border-radius: 5px;
+}
+.main3{
+    width: 100%;
+    position: absolute;
+    right: 35px;
+} 
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 70px; 
+}
+ul li{
+    margin-left: 50px;
+    align-content: space-around;
+   font-size: 15px;
+}
+.main4{
+     margin-top: 20px;
+     display: flex;
+     justify-content: center;
+}
+.three{
+    padding: 10px 20px;
+    margin-right:200px ;
+    margin-left: 100px ;
+    margin-top: 25px;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
+.main5{
+    width: 100%;
+    height:450px;
+    display: flex;
+    margin-top: 40px;
+}
+img[alt="fig"]{
+    width: 100%;
+    height: 400px;
+    border-radius: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}  
+.main6{
+    width: 100%;
+    height: 400px;
+    margin-top: 30px; 
+    padding:0px 40px; 
+}
+
+img[alt="fig1"]{
+    width: 100%;
+    height: 400px;
+    border-radius: 20px; 
+}  
+.main7{
+    width: 100%;
+    height: 400px;
+    display: flex; 
+    margin-top: 30px;
+}
+img[alt="different"]{
+     width: 100%;
+     height: 400px;
+}
+.main7{
+    width: 100%;
+    height: 400px;
+}
+img[alt=fig2]{
+    width: 100%;
+    height: 400px;
+    padding: 0px 20px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+h3{
+    margin-top: 20px;
+    width: 100%;
+    font-size: 30px;
+}
+h4{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.item{
+     width: 100%;
+     height: 400px;
+     display: flex;
+}
+img[alt=fig4]{
+    width: 90%;
+    margin-left: 10px;
+}
+
+.item1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    padding-left: 10px;
+}
+.item2{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.item3{
+    width: 100%;
+    height: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+img[alt="fig7"]{
+    width: 100%;
+    height: 400px;
+}
+img[alt="fig5"]{
+    width: 100%;
+    height: 350px;
+    margin-left: 10px;
+}
+img[alt="fig6"]{
+    width: 100%;
+    height: 350px;
+    margin-left: 10px;
+}
+.item4{
+    width: 90%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+button{
+    padding: 20px;
+    margin-left: 20px;
+    font-weight: bold;
+    background-color: white;
+    border: white;
+    box-shadow: 0px 2px 5px;
+}
+.deal{
+
+    font-size: 30px;
+    margin-top: 50px;
+}
+.deal1{
+    margin-top: 40px;
+    font-size: 20px;
+    text-align: center;
+}
+.item5{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    padding-left: 100px;
+    
+}
+img[alt="girl"]{
+    border-radius:20px;
+    margin-left: 20px;
+}  
+.deal2{
+    margin-top: 100px;
+    font-size: 20px;
+    text-align: center;
+}
+.deal3{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    padding-left: 100px;
+}
+img[alt="boy"]{
+    border-radius:20px;
+    margin-left: 20px;
+} 
+
+.deal5{
+    width: 100%;
+    height: 300px;
+    border: solid;
+    display: flex;
+}
+.deal6{
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.deal6{
+     width: 100%;
+     height: 500px;
+     
+}
+img[alt="pic"]{
+    width: 100%;
+    height: 400px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 40px;
+    
+}
+.deal7{
+    width: 100%;
+    height: 60px;
+}
+.deal8{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+img[alt="cod"]{
+   padding-left: 150px;
+}
+.cod{
+    font-size: 18px;
+    padding-top: 10px;
+}
+.deal9{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    justify-content: start;
+}
+.demo{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.demo1{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.demo2{
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    display: flex;
+}
+table{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.demo3{
+    margin-left: 230px;
+    padding-top: 30px;
+}
+h1{
+  color: darkgrey;
+}
+.demo4{
+    width: 100%;
+    font-size: 10px;
+    padding: 0px 20px;
+    margin-top: 40px;
+}
+.read{
+    margin-top: 20px;
+    padding: 10px 20px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+footer{
+    height: 60px;
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+img[alt="foot"]{
+    height: 30px;
+}
+.once{
+    position: absolute;
+    top:20px ;
+    left: 600px; 
+}
+.con1{
+    font-size: 18px;
+    color: #424242;
+}
+.small{
+    width: 100%;
+    height: 40px;
+    padding-left: 32px;
+}
+img[alt="google"]{
+    width: 10%;
+    height: 30px;
+}
+img[alt="app store"]{
+    width: 10%;
+    height: 30px;
+}
